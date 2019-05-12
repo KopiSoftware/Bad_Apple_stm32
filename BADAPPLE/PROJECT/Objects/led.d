@@ -1,0 +1,11 @@
+.\objects\led.o: ..\LIBRARIES\LED\led.c
+.\objects\led.o: ..\LIBRARIES\sys\sys.h
+.\objects\led.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\led.o: ..\LIBRARIES\sys\core_cm3.h
+.\objects\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\led.o: ..\LIBRARIES\sys\system_stm32f10x.h
+.\objects\led.o: ..\STM32LIB\stm32f10x_conf.h
+.\objects\led.o: ..\STM32LIB\inc\stm32f10x_gpio.h
+.\objects\led.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\led.o: ..\STM32LIB\inc\stm32f10x_rcc.h
+.\objects\led.o: ..\LIBRARIES\LED\led.h

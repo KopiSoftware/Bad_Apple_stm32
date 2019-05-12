@@ -1,0 +1,14 @@
+.\objects\oled_i2c.o: ..\LIBRARIES\OLED\OLED_I2C.c
+.\objects\oled_i2c.o: ..\LIBRARIES\OLED\OLED_I2C.h
+.\objects\oled_i2c.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\oled_i2c.o: ..\LIBRARIES\sys\core_cm3.h
+.\objects\oled_i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled_i2c.o: ..\LIBRARIES\sys\system_stm32f10x.h
+.\objects\oled_i2c.o: ..\STM32LIB\stm32f10x_conf.h
+.\objects\oled_i2c.o: ..\STM32LIB\inc\stm32f10x_gpio.h
+.\objects\oled_i2c.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\oled_i2c.o: ..\STM32LIB\inc\stm32f10x_rcc.h
+.\objects\oled_i2c.o: ..\LIBRARIES\delay\delay.h
+.\objects\oled_i2c.o: ..\LIBRARIES\sys\sys.h
+.\objects\oled_i2c.o: ..\LIBRARIES\codetab.h
+.\objects\oled_i2c.o: ..\STM32LIB\inc\stm32f10x_i2c.h

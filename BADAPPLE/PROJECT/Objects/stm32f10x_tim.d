@@ -1,0 +1,10 @@
+.\objects\stm32f10x_tim.o: ..\STM32LIB\src\stm32f10x_tim.c
+.\objects\stm32f10x_tim.o: ..\STM32LIB\inc\stm32f10x_tim.h
+.\objects\stm32f10x_tim.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\stm32f10x_tim.o: ..\LIBRARIES\sys\core_cm3.h
+.\objects\stm32f10x_tim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_tim.o: ..\LIBRARIES\sys\system_stm32f10x.h
+.\objects\stm32f10x_tim.o: ..\STM32LIB\stm32f10x_conf.h
+.\objects\stm32f10x_tim.o: ..\STM32LIB\inc\stm32f10x_gpio.h
+.\objects\stm32f10x_tim.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\stm32f10x_tim.o: ..\STM32LIB\inc\stm32f10x_rcc.h

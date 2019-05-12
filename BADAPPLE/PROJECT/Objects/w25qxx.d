@@ -1,0 +1,16 @@
+.\objects\w25qxx.o: ..\LIBRARIES\W25QXX\w25qxx.c
+.\objects\w25qxx.o: ..\LIBRARIES\W25QXX\w25qxx.h
+.\objects\w25qxx.o: ..\LIBRARIES\sys\sys.h
+.\objects\w25qxx.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\w25qxx.o: ..\LIBRARIES\sys\core_cm3.h
+.\objects\w25qxx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\w25qxx.o: ..\LIBRARIES\sys\system_stm32f10x.h
+.\objects\w25qxx.o: ..\STM32LIB\stm32f10x_conf.h
+.\objects\w25qxx.o: ..\STM32LIB\inc\stm32f10x_gpio.h
+.\objects\w25qxx.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\w25qxx.o: ..\STM32LIB\inc\stm32f10x_rcc.h
+.\objects\w25qxx.o: ..\STM32LIB\inc\stm32f10x_spi.h
+.\objects\w25qxx.o: ..\LIBRARIES\SPI\spi.h
+.\objects\w25qxx.o: ..\LIBRARIES\delay\delay.h
+.\objects\w25qxx.o: ..\LIBRARIES\usart\usart.h
+.\objects\w25qxx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

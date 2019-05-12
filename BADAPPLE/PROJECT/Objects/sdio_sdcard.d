@@ -1,0 +1,17 @@
+.\objects\sdio_sdcard.o: ..\LIBRARIES\SDIO\sdio_sdcard.c
+.\objects\sdio_sdcard.o: ..\LIBRARIES\SDIO\sdio_sdcard.h
+.\objects\sdio_sdcard.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\sdio_sdcard.o: ..\LIBRARIES\sys\core_cm3.h
+.\objects\sdio_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sdio_sdcard.o: ..\LIBRARIES\sys\system_stm32f10x.h
+.\objects\sdio_sdcard.o: ..\STM32LIB\stm32f10x_conf.h
+.\objects\sdio_sdcard.o: ..\STM32LIB\inc\stm32f10x_gpio.h
+.\objects\sdio_sdcard.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\sdio_sdcard.o: ..\STM32LIB\inc\stm32f10x_rcc.h
+.\objects\sdio_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\sdio_sdcard.o: ..\LIBRARIES\sys\sys.h
+.\objects\sdio_sdcard.o: ..\LIBRARIES\usart\usart.h
+.\objects\sdio_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sdio_sdcard.o: ..\STM32LIB\inc\stm32f10x_sdio.h
+.\objects\sdio_sdcard.o: ..\STM32LIB\inc\stm32f10x_dma.h
+.\objects\sdio_sdcard.o: ..\STM32LIB\inc\misc.h

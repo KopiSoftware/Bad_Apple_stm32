@@ -1,0 +1,15 @@
+.\objects\diskio.o: ..\LIBRARIES\FATFS\src\diskio.c
+.\objects\diskio.o: ..\LIBRARIES\FATFS\src\diskio.h
+.\objects\diskio.o: ..\LIBRARIES\FATFS\src\integer.h
+.\objects\diskio.o: ..\LIBRARIES\SDIO\sdio_sdcard.h
+.\objects\diskio.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\diskio.o: ..\LIBRARIES\sys\core_cm3.h
+.\objects\diskio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\diskio.o: ..\LIBRARIES\sys\system_stm32f10x.h
+.\objects\diskio.o: ..\STM32LIB\stm32f10x_conf.h
+.\objects\diskio.o: ..\STM32LIB\inc\stm32f10x_gpio.h
+.\objects\diskio.o: ..\LIBRARIES\sys\stm32f10x.h
+.\objects\diskio.o: ..\STM32LIB\inc\stm32f10x_rcc.h
+.\objects\diskio.o: ..\LIBRARIES\W25QXX\w25qxx.h
+.\objects\diskio.o: ..\LIBRARIES\sys\sys.h
+.\objects\diskio.o: ..\LIBRARIES\MALLOC\malloc.h
